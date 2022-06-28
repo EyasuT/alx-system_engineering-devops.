@@ -1,2 +1,2 @@
 #!/bin/bash
-prinitf '%.2f\n' SUM
+prinitf '%.2f\n' $SUM
